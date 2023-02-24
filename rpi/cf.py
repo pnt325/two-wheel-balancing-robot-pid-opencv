@@ -1,0 +1,10 @@
+global detect
+global detect_old
+global connect
+global enable
+global serial
+global ser_connect
+global angle
+global robot_state
+global tcp_ip
+global send_image
